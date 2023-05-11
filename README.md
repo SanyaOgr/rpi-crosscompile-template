@@ -2,7 +2,7 @@
 Basic C++ Linux project template with instruction how to cross-compile it for Raspberry PI
 
 ## Setup
-* You need to install arm toolchain
+* Install arm toolchain
 ```shell
 sudo apt-get install g++-arm-linux-gnueabihf binutils-arm-linux-gnueabihf
 ```
